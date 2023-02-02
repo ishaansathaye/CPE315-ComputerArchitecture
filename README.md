@@ -13,6 +13,7 @@
 
 - [Lab 1 - Haiku](https://github.com/beard-cpe315-2228/cpe-315-lab1-ishaansathaye)
 - [Lab 2 - Towers of Hanoi (Recursive)](https://github.com/beard-cpe315-2228/cpe-315-lab2-ishaansathaye)
+- [Lab 3 - Integer Arithmetic](https://github.com/beard-cpe315-2228/cpe-315-lab3-team-heskey-time)
 
 ## Quizzes
 

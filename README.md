@@ -15,6 +15,8 @@
 - [Lab 2 - Towers of Hanoi (Recursive)](https://github.com/beard-cpe315-2228/cpe-315-lab2-ishaansathaye)
 - [Lab 3 - Integer Arithmetic](https://github.com/beard-cpe315-2228/cpe-315-lab3-team-heskey-time)
 - [Lab 4 - Performance Measurement](https://github.com/beard-cpe315-2228/cpe-315-lab4-team-heskey-time)
+- [Lab 5 - Cache Optimization](https://github.com/beard-cpe315-2228/cpe-315-lab5-team-heskey-time)
+- [Lab 6 - SIMD and Multithreading](https://github.com/beard-cpe315-2228/cpe-315-lab06-team-heskey-time)
 
 ## Quizzes
 
